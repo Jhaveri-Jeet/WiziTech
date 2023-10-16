@@ -1,3 +1,5 @@
+![Screenshot 2023-10-16 232055](https://github.com/Jhaveri-Jeet/WiziTech/assets/114752089/aad72ef9-0795-44ec-a583-1859e6dfbf23)
+
 # Project Management System
 
 This is a Project Management System implemented in Java using Servlets and AJAX, designed to streamline project and task management.
@@ -18,8 +20,6 @@ This is a Project Management System implemented in Java using Servlets and AJAX,
 git clone https://github.com/yourusername/project-management-system.git
 ```
 
-````
-
 2. Set up your Java development environment.
 
 3. Deploy the application to your servlet container (e.g., Apache Tomcat).
@@ -33,12 +33,15 @@ git clone https://github.com/yourusername/project-management-system.git
 - Manage client information for each project.
 - Collaborate efficiently with your team.
 
+## Contributing
+
+Contributions are welcome!
+
 ## Acknowledgments
 
-- We would like to thank [Your Name] for their contributions to this project.
+- We would like to thank Jeet Jhaveri![Screenshot 2023-10-16 232055](https://github.com/Jhaveri-Jeet/WiziTech/assets/114752089/2c212040-3dc4-4dc2-af60-f3806283b444)
+ for their contributions to this project.
 
 ```
 
 You can modify this README to fit your project's specifics and provide detailed instructions for users and contributors. Additionally, consider adding more sections like "Installation," "Configuration," "Demo," "Support," and "Roadmap" depending on your project's needs.
-```
-````
