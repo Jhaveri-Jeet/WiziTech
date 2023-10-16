@@ -39,8 +39,7 @@ Contributions are welcome!
 
 ## Acknowledgments
 
-- We would like to thank Jeet Jhaveri![Screenshot 2023-10-16 232055](https://github.com/Jhaveri-Jeet/WiziTech/assets/114752089/2c212040-3dc4-4dc2-af60-f3806283b444)
- for their contributions to this project.
+- We would like to thank Jeet Jhaveri for their contributions to this project.
 
 ```
 
