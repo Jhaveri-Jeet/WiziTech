@@ -1,6 +1,6 @@
+# Project Management System
 ![Screenshot 2023-10-16 232055](https://github.com/Jhaveri-Jeet/WiziTech/assets/114752089/aad72ef9-0795-44ec-a583-1859e6dfbf23)
 
-# Project Management System
 
 This is a Project Management System implemented in Java using Servlets and AJAX, designed to streamline project and task management.
 
